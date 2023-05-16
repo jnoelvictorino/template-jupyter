@@ -1,0 +1,5 @@
+.devcontainer/notebook.env
+.devcontainer/db.env
+.devcontainer/.jupyter
+**/__pycache__/*
+**/.ipynb_checkpoints/*

@@ -1,0 +1,9 @@
+pandasql
+openpyxl
+ipympl
+nodejs
+psycopg2-binary
+python-dotenv
+xgboost
+sktime
+sqlalchemy==1.4.46
