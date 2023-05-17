@@ -7,7 +7,7 @@
   "overrideCommand": false,
   "postCreateCommand": "bash .devcontainer/postCreate.sh",
   "workspaceFolder": "/workspaces",
-  "remoteUser": "jovyan",
+  "remoteUser": "root",
   "forwardPorts": [
     8888
   ],
